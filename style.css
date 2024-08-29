@@ -1,0 +1,10 @@
+.encabezado{background-image: url(./images/fondoenca.jpg); width: 100%; height: 200px;}
+
+.jack{border-radius: 75px; justify-content: center;}
+
+h1{margin: 25px; font-size: 50px; color: #243133;}
+h2{color: #556D70;}
+h3{color: #54B6C5; font-size: 35px;}
+.botonsito {background-color: #3FD7EF; color: white;}
+.footer{background-color: #5C929B; margin-bottom: 0; padding-bottom: 0; margin-bottom: 0px;}
+
